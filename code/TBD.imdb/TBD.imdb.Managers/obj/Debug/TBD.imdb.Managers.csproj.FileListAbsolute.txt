@@ -1,0 +1,10 @@
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\bin\Debug\TBD.imdb.Managers.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\bin\Debug\TBD.imdb.Managers.pdb
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\bin\Debug\TBD.imdb.DataAccess.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\bin\Debug\TBD.imdb.DataAccess.pdb
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\bin\Debug\TBD.imdb.DataAccess.dll.config
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\obj\Debug\TBD.imdb.Managers.csprojAssemblyReference.cache
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\obj\Debug\TBD.imdb.Managers.csproj.CoreCompileInputs.cache
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\obj\Debug\TBD.imdb.Managers.csproj.CopyComplete
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\obj\Debug\TBD.imdb.Managers.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\TBD.imdb\TBD.imdb.Managers\obj\Debug\TBD.imdb.Managers.pdb
