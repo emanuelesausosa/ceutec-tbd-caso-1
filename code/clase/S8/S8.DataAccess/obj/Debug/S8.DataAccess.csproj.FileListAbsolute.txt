@@ -1,0 +1,6 @@
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.DataAccess\bin\Debug\S8.DataAccess.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.DataAccess\bin\Debug\S8.DataAccess.pdb
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.DataAccess\obj\Debug\S8.DataAccess.csprojAssemblyReference.cache
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.DataAccess\obj\Debug\S8.DataAccess.csproj.CoreCompileInputs.cache
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.DataAccess\obj\Debug\S8.DataAccess.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.DataAccess\obj\Debug\S8.DataAccess.pdb
