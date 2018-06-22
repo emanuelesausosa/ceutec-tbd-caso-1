@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S8.DataAccess", "S8.DataAcc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S8.Managers", "S8.Managers\S8.Managers.csproj", "{E310142B-2AC3-44FB-9421-8A221AEFDE8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S8.WebApi", "S8.WebApi\S8.WebApi.csproj", "{4C30249E-F7F9-4CB3-B637-A2B3E163D491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E310142B-2AC3-44FB-9421-8A221AEFDE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E310142B-2AC3-44FB-9421-8A221AEFDE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E310142B-2AC3-44FB-9421-8A221AEFDE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C30249E-F7F9-4CB3-B637-A2B3E163D491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C30249E-F7F9-4CB3-B637-A2B3E163D491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C30249E-F7F9-4CB3-B637-A2B3E163D491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C30249E-F7F9-4CB3-B637-A2B3E163D491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

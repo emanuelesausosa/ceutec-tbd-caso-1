@@ -1,0 +1,9 @@
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\bin\Debug\S8.Managers.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\bin\Debug\S8.Managers.pdb
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\bin\Debug\S8.DataAccess.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\bin\Debug\S8.DataAccess.pdb
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\obj\Debug\S8.Managers.csprojAssemblyReference.cache
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\obj\Debug\S8.Managers.csproj.CoreCompileInputs.cache
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\obj\Debug\S8.Managers.csproj.CopyComplete
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\obj\Debug\S8.Managers.dll
+C:\Ceutec\TeoriaDeBasesDeDatos\S7\caso-1\code\clase\S8\S8.Managers\obj\Debug\S8.Managers.pdb
